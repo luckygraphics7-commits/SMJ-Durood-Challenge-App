@@ -1,7 +1,7 @@
 {
   "name": "SMJ Durood Challenge",
   "short_name": "SMJ Durood",
-  "start_url": "./",
+  "start_url": "./?v=4",
   "scope": "./",
   "display": "standalone",
   "background_color": "#075b45",
